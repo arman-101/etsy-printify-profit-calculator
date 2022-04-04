@@ -33,7 +33,7 @@ def calculate():
     total_etsy_fees = round(listing_fees + transaction_fees + processing_fees + operating_fees, 2)
 
     # Changing Labels for calculation
-    total_costs = round(cost + total_etsy_fees + etsy_selling_vat + printify_making_vat + shipping + printify_shipping_tax, 2)
+    total_costs = round(cost + total_etsy_fees + etsy_selling_vat + printify_making_vat + shipping + printify_shipping_tax + additional, 2)
 
     profit = round(price - total_costs, 2)
 
