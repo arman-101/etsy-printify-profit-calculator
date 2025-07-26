@@ -11,4 +11,5 @@
 2 ways to run the app.
 
 1 - Git clone and run `main.py`
+
 2 - Download zip and open `main-app.zip` (MAC - allow to run via settings -> privacy and security -> allow app)
