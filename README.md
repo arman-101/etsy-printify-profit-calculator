@@ -1,5 +1,5 @@
 # Etsy x Printify - Profit Calculator
-
+![app-screenshot](https://github.com/user-attachments/assets/2821d141-38a0-4329-ab81-293a4d4495c1)
 ## Details
 
 - All inputs have to be filled before calculation can take place.
