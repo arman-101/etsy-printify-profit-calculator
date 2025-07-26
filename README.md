@@ -1,2 +1,14 @@
-# etsy-printify-profit-calculator
-Calculates profit.
+# Etsy x Printify - Profit Calculator
+
+## Details
+
+- All inputs have to be filled before calculation can take place.
+- All inputs are in $ except Coupon which is a %
+- Inputs are: Selling price, Cost to make, Shipping cost, Coupon (Profit if coupon applied), Additional (+- just in case)
+
+## Running locally
+
+2 ways to run the app.
+
+### 1 - Git clone and run main.py
+### 2 - Download zip and open `main-app.zip` (MAC - allow to run via settings -> privacy and security -> allow app)
